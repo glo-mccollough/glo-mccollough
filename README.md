@@ -1,19 +1,20 @@
 👋 Hi, I’m Glo!
+==============
 
 Currently I'm located in Washington State. 
 
 While I am open to freelance and contract to hire possibilities, these opportunities must remain remote as I am looking to relocate in the near future.
 
-- 👀 I’m interested in expanding my current skill set.  Recently certified as a Dana Analyst as well as SQL for Data Science, though my passion is in product and marketing data. 
+- 👀 I’m interested in expanding my current skill set.  Recently certified as a Dana Analyst and really digging SQL.
 - 🌱 I’m currently taking a deeper dive into SQL and perhaps learning Python.
-- 💞️ I’m looking to collaborate with creatives, out of the box thinkers, and brand developers
+- 💞️ I’m looking to collaborate with creatives, out of the box thinkers, and amazing product developers.
 - 📫 How to reach me glo.lamden.mccollough@gmail.com
 
-The following is a copy/paste from the "About" section of my personal LinkedIn account.  If you've found me via LinkedIn, you may have already reviewed it. 
 
 My career experience does not define me as a person. It adds to my uniqueness and style. I live each day to learn, collaborate, create something from nothing, teach, lead and follow. ~ Glo
 
-Current and former titles have included....
+Current and former titles have included...
+================
 + Project Manager
 + Product Manager
 + Operations Manager
@@ -23,7 +24,12 @@ Current and former titles have included....
 + Artist (painter | brush on canvas)
 
 Overview of Skills
-Project Management | Product Management Ent | Organization Management (PM OM)
+=====================
+
+
+
+Project Management | Product Management | Organization Management 
+====================
 + Created, modified, and managed - 1 – 24 month schedules for development and planning
 + Worked directly with and managed the assets of local and overseas partners
 + Trafficked projects & jobs
@@ -34,6 +40,7 @@ Project Management | Product Management Ent | Organization Management (PM OM)
 + Created and published multiple training guides
 
 Account Management & Client Expectation Management (AM)
+===================
 + Managed Client engagement assisting Sales Managers
 + Created and updated contracts based on scope
 + Facilitated internal communications and client expectations
@@ -42,6 +49,7 @@ Account Management & Client Expectation Management (AM)
 + Researched and gathered appropriate historical data for internal decision making processes
 
 Marketing Specialist
+=====================
 + Handled all commutations within the Marketing Department
 + Lead and reported on focus group and marketing testing
 + Created and published competitive analysis reports
@@ -52,6 +60,7 @@ Marketing Specialist
 + Created PowerPoints, visual line lists, and sell-in tools for Sales Presentations 
 
 General skills
+====================
 + Microsoft Products (Word, PP, Excel)
 + Google Products (Docs, Sheets, Gmail, Big Query)
 + Photoshop (cleanup)
@@ -63,6 +72,7 @@ General skills
 + Extremely comfortable wearing a lot of hats and change
 
 Categories I have worked in
+=========================
 + Web-space creation including e-commerce
 + Licensed manufacturing of hard/soft lines, cosmetics, electronics, and toys
 + Healthcare
