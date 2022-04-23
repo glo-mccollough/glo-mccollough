@@ -4,12 +4,12 @@ Currently I'm located in Washington State.
 
 While I am open to freelance and contract to hire possibilities, these opportunities must remain remote as I am looking to relocate in the near future.
 
-- 👀 I’m interested in expanding my current skill tool-box.
+- 👀 I’m interested in expanding my current skill set.  Recently certified as a Dana Analyst as well as SQL for Data Science, though my passion is in product and marketing data. 
 - 🌱 I’m currently taking a deeper dive into SQL and perhaps learning Python.
 - 💞️ I’m looking to collaborate with creatives, out of the box thinkers, and brand developers
 - 📫 How to reach me glo.lamden.mccollough@gmail.com
 
-The following is a copy/paste from the "About" section of my personal LinkedIn account.  If you've found me via LinkedIn, you may have already perused it. 
+The following is a copy/paste from the "About" section of my personal LinkedIn account.  If you've found me via LinkedIn, you may have already reviewed it. 
 
 My career experience does not define me as a person. It adds to my uniqueness and style. I live each day to learn, collaborate, create something from nothing, teach, lead and follow. ~ Glo
 
