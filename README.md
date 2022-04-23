@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Glo!
+👋 Hi, I’m Glo!
 
 Currently I'm located in Washington State. 
 
