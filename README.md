@@ -5,7 +5,7 @@ Currently I'm located in Washington State.
 
 While I am open to freelance and contract to hire possibilities, these opportunities must remain remote as I am looking to relocate in the near future.
 
-- 👀 I’m interested in expanding my current skill set.  Recently certified as a Dana Analyst and really digging SQL.
+- 👀 I’m interested in expanding my current skill set.  Recently certified as a Data Analyst and really digging SQL.
 - 🌱 I’m currently taking a deeper dive into SQL and perhaps learning Python.
 - 💞️ I’m looking to collaborate with creatives, out of the box thinkers, and amazing product developers.
 - 📫 How to reach me glo.lamden.mccollough@gmail.com
