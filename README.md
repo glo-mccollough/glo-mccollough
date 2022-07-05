@@ -3,7 +3,7 @@
 
 Currently I'm located in Washington State. 
 
-While I am open to freelance and contract to hire possibilities, these opportunities must remain remote as I am looking to relocate in the near future.
+While I am open to freelance and contract to hire possibilities, at this time, all opportunities must remain fully remote.
 
 - 👀 I’m interested in expanding my current skill set.  Recently certified as a Data Analyst and really digging SQL.
 - 🌱 I’m currently taking a deeper dive into SQL and perhaps learning Python.
