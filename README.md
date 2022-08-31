@@ -23,6 +23,14 @@ Current and former titles have included...
 + Marketing Specialist
 + Artist (painter | brush on canvas)
 
+Titles I am seeking...
+================
++ Technical Product Manager
++ Product Owner
++ Program Manager
+
+
+
 Overview of Skills
 =====================
 
