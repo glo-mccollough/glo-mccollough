@@ -38,6 +38,7 @@ Overview of Skills
 
 Project Management | Product Management | Organization Management 
 ====================
++ Created, modified, and managed - SaaS, new features, and Website FSDs, Use Cases, and Product Plans speaking to front-end/back-end and database requirements
 + Created, modified, and managed - 1 – 24 month schedules for development and planning
 + Worked directly with and managed the assets of local and overseas partners
 + Trafficked projects & jobs
@@ -58,6 +59,9 @@ Account Management & Client Expectation Management (AM)
 
 Marketing Specialist
 =====================
++ Ran and reported on Focus Group Testing
++ Ran and created marketing strategies for Google Ads to support website and applicaiton lauch
++ Managed Marketing associates and freelancers
 + Handled all commutations within the Marketing Department
 + Lead and reported on focus group and marketing testing
 + Created and published competitive analysis reports
@@ -72,7 +76,6 @@ General skills
 + Microsoft Products (Word, PP, Excel)
 + Google Products (Docs, Sheets, Gmail, Big Query)
 + Photoshop (cleanup)
-+ Certified Data Analyst (SQL beginner – intermediate)/ Certified 
 + Process creation and general training
 + Website and e-commerce development (I speak e-commerce)
 + Understands and has worked in full cycle manufacturing and web-space/app-space production
