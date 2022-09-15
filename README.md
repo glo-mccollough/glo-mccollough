@@ -28,11 +28,12 @@ Titles I am seeking...
 ================
 + Technical Product Manager
 + Product Owner
++ Senior Project Manager
 
 
 Methodologies
 ================
-+ Agile | Scrum | Kanban
++ Agile | Scrum | Kanban 
 + Waterfall
 
 
