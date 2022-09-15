@@ -1,11 +1,9 @@
 👋 Hi, I’m Glo!
 ==============
 
-Currently I'm located in Washington State. 
+Born in NY, grew up in CA, and currently living in the Pacific North West. Tree's are awesome!
 
-While I am open to freelance and contract to hire possibilities, at this time, all opportunities must remain fully remote.
-
-- 👀 I’m interested in becoming a Technical Product/Project Manager.  I do well in people/client facing roles.
+- 👀 I’m interested in becoming a Technical Product/Project Manager.  I do well in client facing roles.
 - 🌱 I’m currently continuing my targeted qualifier certification courses as well as steering the boat of my own business.
 - 💞️ I’m looking to collaborate with creatives, out of the box thinkers, and amazing product developers.
 - 📫 How to reach me glo.lamden.mccollough@gmail.com
