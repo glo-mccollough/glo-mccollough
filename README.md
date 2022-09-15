@@ -6,7 +6,7 @@ Currently I'm located in Washington State.
 While I am open to freelance and contract to hire possibilities, at this time, all opportunities must remain fully remote.
 
 - 👀 I’m interested in becoming a Technical Product/Project Manager.  I do well in people/client facing roles.
-- 🌱 I’m currently taking a few certification courses as well as steering the boat of my own business.
+- 🌱 I’m currently continuing my targeted qualifier certification courses as well as steering the boat of my own business.
 - 💞️ I’m looking to collaborate with creatives, out of the box thinkers, and amazing product developers.
 - 📫 How to reach me glo.lamden.mccollough@gmail.com
 
@@ -21,13 +21,31 @@ Current and former titles have included...
 + Data Analyst
 + Account Manager
 + Marketing Specialist
-+ Artist (painter | brush on canvas)
++ Artist 
+
 
 Titles I am seeking...
 ================
 + Technical Product Manager
 + Product Owner
-+ Program Manager
+
+
+Methodologies
+================
++ Agile | Scrum | Kanban
++ Waterfall
+
+
+Existing Certifications as of Sept 2022
+================
++ CSM - Certified Scrum Master
++ CPM - Certified Product Manager 
++ CPMM - Certified Product Marketing Manager 
++ ACDA - Certified Data Analyst (Big Data / MySQL / Excel / R Studio / Visualizations)
+
+
+
+
 
 
 
@@ -36,55 +54,75 @@ Overview of Skills
 
 
 
-Project Management | Product Management | Organization Management 
+Technical Product | Project Management 
 ====================
-+ Created, modified, and managed - SaaS, new features, and Website FSDs, Use Cases, and Product Plans speaking to front-end/back-end and database requirements
-+ Created, modified, and managed - 1 – 24 month schedules for development and planning
-+ Worked directly with and managed the assets of local and overseas partners
-+ Trafficked projects & jobs
-+ Created, modified, and maintained budgets in the multi-millions 
-+ Obtained, managed, and negotiated with various types of 3rd party vendors
-+ Created and published workflow processes for new projects
-+ Created and published processes for creating custom projects outside of original scope
-+ Created and published multiple training guides
-
-Account Management & Client Expectation Management (AM)
-===================
-+ Managed Client engagement assisting Sales Managers
-+ Created and updated contracts based on scope
+------ACCOUNT MANAGEMENT
++ Managed Client engagement contract scope to launch
 + Facilitated internal communications and client expectations
 + Reported project progress directly to clients
 + Negotiated scope creep with Clients and internal partners
-+ Researched and gathered appropriate historical data for internal decision making processes
 
-Marketing Specialist
+------DEV OPS/BIZ OPS
++ Created, modified, and managed - SaaS, new features, and Website FSDs, Use Cases, and Product Plans speaking to front-end/back-end and database requirements
++ Created, modified, and managed - 1 – 24 month schedules for development and planning
++ Researched and gathered appropriate historical data for internal decision making processes
++ Obtained, managed, and negotiated with various types of 3rd party vendors
++ Worked directly with and managed the assets of local and overseas partners
++ Created, modified, and maintained budgets in the multi-millions 
++ Created and published workflow processes for new projects
++ Created and published processes for creating custom projects outside of original scope
++ Created, published, and trained clients and associates using training guides
+
+
+Marketing 
 =====================
-+ Ran and reported on Focus Group Testing
-+ Ran and created marketing strategies for Google Ads to support website and applicaiton lauch
-+ Managed Marketing associates and freelancers
-+ Handled all commutations within the Marketing Department
++ Compiled and published competitive analysis reports 
 + Lead and reported on focus group and marketing testing
-+ Created and published competitive analysis reports
-+ Managed assets and deliverables from multiple Design Teams
-+ Managed event schedules
++ Managed assets and deliverables for physical and digital design initiatives
++ Led Marketing efforts in Google Ads, YouTube, and Google Play
++ Led copywriting, scripting, and animation video creation 
++ Led MailChimp campaigns
++ Managed event planning, booth creation, collateral, and logistics
 + Managed events from venue to vendor placement
-+ Managed event assets from booth creation to marketing materials
 + Created PowerPoints, visual line lists, and sell-in tools for Sales Presentations 
+
 
 General skills
 ====================
-+ Microsoft Products (Word, PP, Excel)
-+ Google Products (Docs, Sheets, Gmail, Big Query)
-+ Photoshop (cleanup)
-+ Process creation and general training
-+ Website and e-commerce development (I speak e-commerce)
-+ Understands and has worked in full cycle manufacturing and web-space/app-space production
-+ Comfortable with accounts receivable /accounts payable
-+ Extremely comfortable wearing a lot of hats and change
+Skill Synopsis 
++ General Project/Product Management	      +10 Years
++ Communications Management		              +10 Years
++ SDLC / Website Project Management	        +10 Years 	
++ Business Analysis Process Improvement	    +10 Years
++ Feature Requirements Management	          +10 Years
++ Stakeholder Engagement Management	        +10 Years
++ Project Planning Management		            +10 Years
++ Resource & Vendor Management	            +10 Years
++ Marketing Digital and Physical		        +10 Years
++ Budgeting				                          +10 Years
++ Data Analyst 				                      Certified
 
-Categories I have worked in
+
+Industry Summary
 =========================
-+ Web-space creation including e-commerce
-+ Licensed manufacturing of hard/soft lines, cosmetics, electronics, and toys
-+ Healthcare
-+ Online networking/dating platforms
++ e-Commerce (ERP)						
++ Software Development (SaaS)					
++ Web Development (Standard/Responsive/Mobile)			
++ Content Management Systems (CMS)				
++ Consumer Packaged Goods (CPG/CE) 				 
++ Manufacturing Electronics (CE)						
++ Healthcare									
++ Retail at a Corporate level
+
+
+Tools Used
+=========================
++ Microsoft Word, Excel, PPT, Visio, and Project
++ Google Docs, Sheets, and Drive	
++ Gmail, Calendar, and Hangouts
++ Basecamp, Trello, Jira, and dabbled in Monday
++ DBeaver for SQL queries
++ RStudio for data visualizations	
++ Photoshop for image cleanup
+
+
