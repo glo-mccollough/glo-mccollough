@@ -37,6 +37,7 @@ Methodologies
 
 Existing Certifications as of Sept 2022
 ================
++ CTPM - Certified Technical Product Manager
 + CSM - Certified Scrum Master
 + CPM - Certified Product Manager 
 + CPMM - Certified Product Marketing Manager 
@@ -116,10 +117,10 @@ Industry Summary
 
 Tools Used
 =========================
-+ Microsoft Word, Excel, PPT, Visio, and Project
++ Basecamp, Trello, Jira, Confluence, and dabbled in Monday
 + Google Docs, Sheets, and Drive	
 + Gmail, Calendar, and Hangouts
-+ Basecamp, Trello, Jira, and dabbled in Monday
++ Microsoft Word, Excel, PPT, Visio, and Project
 + DBeaver for SQL queries
 + RStudio for data visualizations	
 + Photoshop for image cleanup
