@@ -3,7 +3,7 @@
 
 Born in NY, grew up in CA, and currently living in the Pacific North West. Tree's are awesome!
 
-- 👀 I’m interested in Technical Product Management/Ownership. I've been a Project Manager for over a decade. I'm happiest in client facing roles.
+- 👀 I’m interested in Technical Product/Project Management/Ownership. I've been a Project Manager for over a decade. I'm happiest in client facing roles.
 - 🌱 I’m currently continuing my targeted qualifier certification courses as well as steering the boat of my own business.
 - 💞️ I’m looking to collaborate with creatives, out of the box thinkers, and amazing product developers.
 - 📫 How to reach me glo.lamden.mccollough@gmail.com
@@ -24,7 +24,7 @@ Current and former titles have included...
 
 Titles I am seeking...
 ================
-+ Technical Product Manager
++ Technical Product/Project Manager
 + Product Owner
 + Senior Project Manager
 
