@@ -5,12 +5,10 @@ My career experience does not define me as a person. It adds to my uniqueness an
 
 Current and former titles have included...
 ================
-+ Project Manager
++ Senior Project Manager
 + Product Manager
 + Operations Manager
-+ Data Analyst
 + Account Manager
-+ Marketing Specialist
 + Artist 
 
 
