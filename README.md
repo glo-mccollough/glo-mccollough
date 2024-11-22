@@ -1,15 +1,7 @@
-👋 Hi, I’m Glo!
+Hello, 
 ==============
 
-Born in NY, grew up in CA, and currently living in the Pacific North West. Tree's are awesome!
-
-- 👀 I’m interested in Technical Product/Project Management/Ownership. I've been a Project Manager for over a decade. I'm happiest in client facing roles.
-- 🌱 I’m currently continuing my targeted qualifier certification courses as well as steering the boat of my own business.
-- 💞️ I’m looking to collaborate with creatives, out of the box thinkers, and amazing product developers.
-- 📫 How to reach me glo.lamden.mccollough@gmail.com
-
-
-My career experience does not define me as a person. It adds to my uniqueness and style. I live each day to learn, collaborate, create something from nothing, teach, lead and follow. ~ Glo
+My career experience does not define me as a person. It adds to my uniqueness and style. I live each day to learn, collaborate, and create something meaningful. ~ Glo
 
 Current and former titles have included...
 ================
@@ -35,24 +27,43 @@ Methodologies
 + Waterfall
 
 
-Existing Certifications as of Sept 2022
+Existing Certifications as of Sept 2024
 ================
-+ CTPM - Certified Technical Product Manager
-+ CSM - Certified Scrum Master
-+ CPM - Certified Product Manager 
-+ CPMM - Certified Product Marketing Manager 
-+ ACDA - Certified Data Analyst (Big Data / MySQL / Excel / R Studio / Visualizations)
+•	Certified Scrum Master (CSM)
+•	Certified Scrum Product Owner (CSPO)
+•	Certified Technical Product Manager (CTPM)
+•	Certified Product Manager (CPM)
+•	Certified Product Marketing Manager (CPMM)
+•	Certified Data Analyst (ACDA)
 
 
-
-
-
-
-
-Overview of Skills
+Overview of Tech Skills
 =====================
+•	Project Management: Agile (Scrum, Kanban) & Waterfall Frameworks
+•	Software Development Lifecycle (SDLC) Oversight
+•	SaaS Product Delivery & Implementation
+•	ETL Processing (Extract, Transform, Load): Streamlined data import/export and transformation processes for accurate system integration
+•	KPI & SLA Development and Monitoring
+•	Client Stakeholder Engagement: Building trust, managing expectations, and aligning cross-functional teams to meet project goals
+•	E-commerce Development: Front- and back-end implementation
+•	API Integration & Authentication: CRUD APIs, SSL, OTP, 3rd Party Auth
+•	Tools: Jira, Confluence, Miro, Basecamp, Trello, Asana, Monday, R Studio, DBeaver (SQL), Google Workspace, Microsoft Office Suite, Dropbox
+•	Data Analysis & Visualization: SQL queries, data analytics, R Studio
+•	Resource, 3rd Party, & Vendor Management
+•	Budget Management
+•	ERP Systems: Including warehousing requirements (aisles, bins, storage, SKUs, attributes, variances, component needs)
 
-
+Overview of Soft Skills
+=====================
+•	Leadership & Mentorship: Mentored and motivated account managers and project managers; guided departments on collaborating effectively with project managers
+•	Training & Education: Delivered training sessions on backend systems and functionality to large organizations, ensuring effective use of the e-commerce platform
+•	Presentation Skills: Presented concepts, new ideas, and customer requests to stakeholders, aligning business goals with client needs
+•	Conflict Resolution & Escalation Management
+•	Strategic Planning & Goal Setting
+•	Risk Management & Mitigation
+•	Entrepreneurship & Decision-Making: Balancing big-picture goals while delivering granular assets
+•	Adaptability & Problem Solving
+•	Time Management & Prioritization
 
 Technical Product | Project Management 
 ====================
@@ -61,31 +72,6 @@ Technical Product | Project Management
 + Facilitated internal communications and client expectations
 + Reported project progress directly to clients
 + Negotiated scope creep with Clients and internal partners
-
-------DEV OPS/BIZ OPS
-+ Created, modified, and managed - SaaS, new features, and Website FSDs, Use Cases, and Product Plans speaking to front-end/back-end and database requirements
-+ Created, modified, and managed - 1 – 24 month schedules for development and planning
-+ Researched and gathered appropriate historical data for internal decision making processes
-+ Obtained, managed, and negotiated with various types of 3rd party vendors
-+ Worked directly with and managed the assets of local and overseas partners
-+ Created, modified, and maintained budgets in the multi-millions 
-+ Created and published workflow processes for new projects
-+ Created and published processes for creating custom projects outside of original scope
-+ Created, published, and trained clients and associates using training guides
-
-
-Marketing 
-=====================
-+ Compiled and published competitive analysis reports 
-+ Lead and reported on focus group and marketing testing
-+ Managed assets and deliverables for physical and digital design initiatives
-+ Led Marketing efforts in Google Ads, YouTube, and Google Play
-+ Led copywriting, scripting, and animation video creation 
-+ Led MailChimp campaigns
-+ Managed event planning, booth creation, collateral, and logistics
-+ Managed events from venue to vendor placement
-+ Created PowerPoints, visual line lists, and sell-in tools for Sales Presentations 
-
 
 General skills
 ====================
@@ -100,7 +86,6 @@ Skill Synopsis
 + Resource & Vendor Management	            +10 Years
 + Marketing Digital and Physical		        +10 Years
 + Budgeting				                          +10 Years
-+ Data Analyst 				                      Certified
 
 
 Industry Summary
