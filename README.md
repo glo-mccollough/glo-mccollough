@@ -67,7 +67,6 @@ Overview of Soft Skills
 
 Technical Product | Project Management 
 ====================
-------ACCOUNT MANAGEMENT
 + Managed Client engagement contract scope to launch
 + Facilitated internal communications and client expectations
 + Reported project progress directly to clients
