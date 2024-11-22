@@ -64,13 +64,6 @@ Overview of Soft Skills
 +	Adaptability & Problem Solving
 +	Time Management & Prioritization
 
-Technical Product | Project Management 
-====================
-+ Managed Client engagement contract scope to launch
-+ Facilitated internal communications and client expectations
-+ Reported project progress directly to clients
-+ Negotiated scope creep with Clients and internal partners
-
 General skills
 ====================
 Skill Synopsis 
