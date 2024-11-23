@@ -1,7 +1,7 @@
 Hello, 
 ==============
 
-My career experience does not define me as a person. It adds to my uniqueness and style. I live each day to learn, collaborate, and create something meaningful. ~ Glo
+My career experience does not define me as a person. It adds to my uniqueness and style. I live each day to learn, lead, collaborate, and create something wonderful. ~ Glo
 
 Current and former titles have included...
 ================
