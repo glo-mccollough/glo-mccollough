@@ -5,8 +5,9 @@ My career experience does not define me as a person. It adds to my uniqueness an
 
 Current and former titles have included...
 ================
-+ Senior Project Manager
++ AI Product Manager
 + Product Manager
++ Senior Project Manager
 + Operations Manager
 + Account Manager
 + Artist 
@@ -14,6 +15,7 @@ Current and former titles have included...
 
 Titles I am seeking...
 ================
++ AI Product Manager
 + Technical Product/Project Manager
 + Product Owner
 + Senior Project Manager
@@ -27,28 +29,28 @@ Methodologies
 
 Existing Certifications as of Sept 2024
 ================
++	Certified IBM AI Product Management Professional (CGAIPM)
 +	Certified Scrum Master (CSM)
 +	Certified Scrum Product Owner (CSPO)
-+	Certified Technical Product Manager (CTPM)
++	Certified Technical Project Manager (CTPM)
 +	Certified Product Manager (CPM)
 +	Certified Product Marketing Manager (CPMM)
 +	Certified Data Analyst (ACDA)
 
 
-Overview of Tech Skills
+Technical & Business Management Skills:
 =====================
-+	Project Management: Agile (Scrum, Kanban) & Waterfall Frameworks
-+	Software Development Lifecycle (SDLC) Oversight
-+	SaaS Product Delivery & Implementation
-+	ETL Processing (Extract, Transform, Load): Streamlined data import/export and transformation processes for accurate system integration
-+	ERP Systems: Including warehousing requirements (aisles, bins, storage, SKUs, attributes, variances, component needs)
-+	KPI & SLA Development and Monitoring
-+	Client Stakeholder Engagement: Building trust, managing expectations, and aligning cross-functional teams to meet project goals
-+	E-commerce Development: Front- and back-end implementation
-+	API Integration & Authentication: CRUD APIs, SSL, OTP, 3rd Party Auth
-+	Data Analysis & Visualization: SQL queries, data analytics, R Studio
-+	Resource, 3rd Party, & Vendor Management
-+	Budget Management
++	Product Management: End-to-end lifecycle management, including scope definition, budgeting, stakeholder alignment, and feature prioritization.
++	Identity & Authentication: Adept in determining IAM protocols such as OTPs, RBAC, password lockouts, and secure API integrations to safeguard user data and enhance platform trust.
++	Project Management: Collaborating with stakeholders to create and define timelines, set milestones, and manage change and risk.
++	Integrations & APIs: Skilled in third-party integrations, ensuring seamless connectivity and functionality across systems.
++	Account & Client Management: Partnered with clients and business teams to build scope, create contracts, manage change, define risk, and maintain open communication across all parties.
++	Agile Methodologies: Experienced in Scrum ceremonies, Kanban boards, and iterative product development.
++	Technical Tools: Comfortable in JIRA, Miro, Confluence, Google Workspace, Trello, Microsoft 365, and other project management tools.
++	Software Development: Directed platform development, integrations, and feature rollouts.
++	Operational Efficiency: Designed workflows to optimize team productivity and resource utilization.
++ AI Integration: Daily use of AI tools for data analysis, research projects, and messaging optimization.
+
 
 Overview of Soft Skills
 =====================
@@ -62,21 +64,6 @@ Overview of Soft Skills
 +	Adaptability & Problem Solving
 +	Time Management & Prioritization
 
-General skills
-====================
-Skill Synopsis 
-+ General Project/Product Management	      +10 Years
-+ Communications Management		              +10 Years
-+ SDLC / Website Project Management	        +10 Years 	
-+ Business Analysis Process Improvement	    +10 Years
-+ Feature Requirements Management	          +10 Years
-+ Stakeholder Engagement Management	        +10 Years
-+ Project Planning Management		            +10 Years
-+ Resource & Vendor Management	            +10 Years
-+ Marketing Digital and Physical		        +10 Years
-+ Budgeting				                          +10 Years
-
-
 Industry Summary
 =========================
 + e-Commerce (ERP)						
@@ -87,14 +74,14 @@ Industry Summary
 + Manufacturing Electronics (CE)						
 + Healthcare									
 + Retail at a Corporate level
++ Entertainment 
 
 
 Tools Used
 =========================
 + Basecamp, Trello, Jira, Confluence, and dabbled in Monday
-+ Google Docs, Sheets, and Drive	
-+ Gmail, Calendar, and Hangouts
-+ Microsoft Word, Excel, PPT, Visio, and Project
++ Google Workspace
++ Microsoft 365
 + DBeaver for SQL queries
 + RStudio for data visualizations	
 + Photoshop for image cleanup
