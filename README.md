@@ -5,7 +5,7 @@ My career experience does not define me as a person. It adds to my uniqueness an
 
 Current and former titles have included...
 ================
-+ AI Product Manager
++ AI Evangelist
 + Product Manager
 + Senior Project Manager
 + Operations Manager
